@@ -2,7 +2,7 @@
 This a repo used for GIT training
 Andreas (request for coffee)
 Harrison
-Thiago
+Thiago Cavalcanti
 Andreas J
 Maytheewat
 Björn
